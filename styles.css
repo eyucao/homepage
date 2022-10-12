@@ -1,0 +1,8 @@
+html *
+{
+   font-family: "Roboto", serif !important;
+}
+
+img {
+    opacity: 0.3;
+}
